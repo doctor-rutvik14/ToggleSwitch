@@ -1,4 +1,5 @@
 # ToggleSwitch
+This project is build using HTML5 and CSS3.
 Toggle switch provides users to select between two options.
 # Note:
 The appearance property is used to display an element using a platform-native 
